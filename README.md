@@ -4,6 +4,9 @@
 
 This project analyzes the Spotify Tracks Dataset using Python, Pandas, Plotly, and Streamlit. The objective is to explore song popularity, artists, genres, and audio features through data cleaning, exploratory data analysis (EDA), interactive visualizations, and a Streamlit dashboard.
 
+##Live Dashboard
+https://lusngjjmotb5gokehhjdku.streamlit.app/
+
 ---
 
 ## 📂 Dataset
